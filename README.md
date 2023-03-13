@@ -1,3 +1,10 @@
 # JavaScript - Unit Testing
 
-Source Code and Resources used during the _[JavaScript Unit Testing - The Practical Guide](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/)_ course from [Academind](https://academind.com)!
+Learn how to write automated tests (unit & integration tests) for your JavaScript projects with Vitest & Jest.<br/>
+For more information, see the _[JavaScript Unit Testing - The Practical Guide](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/)_ course from [Academind](https://academind.com)!
+
+## Table of Content
+
+| Module             | More information   |
+| ------------------ | ------------------ |
+| 01 Getting Started | _Work in Progress_ |
