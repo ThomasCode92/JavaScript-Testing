@@ -5,6 +5,7 @@ For more information, see the _[JavaScript Unit Testing - The Practical Guide](h
 
 ## Table of Content
 
-| Module             | More information                                                                                                       |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------- |
-| 01 Getting Started | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/01-Getting-Started) |
+| Module                      | More information                                                                                                       |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 01 Getting Started          | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/01-Getting-Started) |
+| 02 Setup & Testing Software | _Work in Progress_                                                                                                     |
