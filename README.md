@@ -10,3 +10,4 @@ For more information, see the _[JavaScript Unit Testing - The Practical Guide](h
 | 01 Getting Started          | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/01-Getting-Started)        |
 | 02 Setup & Testing Software | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/02-Setup-Testing-Software) |
 | 03 Testing Basices          | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/03-Testing-Basics)         |
+| 04 Writing Good Tests       | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/04-Writing-Good-Tests)     |
