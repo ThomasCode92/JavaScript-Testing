@@ -5,10 +5,11 @@ For more information, see the _[JavaScript Unit Testing - The Practical Guide](h
 
 ## Table of Content
 
-| Module                      | More information                                                                                                              |
-| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 01 Getting Started          | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/01-Getting-Started)        |
-| 02 Setup & Testing Software | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/02-Setup-Testing-Software) |
-| 03 Testing Basices          | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/03-Testing-Basics)         |
-| 04 Writing Good Tests       | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/04-Writing-Good-Tests)     |
-| 05 Integration Tests        | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/05-Integration-Tests)      |
+| Module                       | More information                                                                                                              |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 01 Getting Started           | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/01-Getting-Started)        |
+| 02 Setup & Testing Software  | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/02-Setup-Testing-Software) |
+| 03 Testing Basices           | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/03-Testing-Basics)         |
+| 04 Writing Good Tests        | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/04-Writing-Good-Tests)     |
+| 05 Integration Tests         | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/05-Integration-Tests)      |
+| 06 Advanced Testing Concepts | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/06-Advanced-Concepts)      |
