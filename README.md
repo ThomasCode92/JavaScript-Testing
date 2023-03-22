@@ -13,4 +13,5 @@ For more information, see the _[JavaScript Unit Testing - The Practical Guide](h
 | 04 Writing Good Tests        | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/04-Writing-Good-Tests)     |
 | 05 Integration Tests         | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/05-Integration-Tests)      |
 | 06 Advanced Testing Concepts | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/06-Advanced-Concepts)      |
-| 07 Mocks & Spies             | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/07-Mocking-and-Spies)      |
+| 07 Mocking & Spies           | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/07-Mocking-and-Spies)      |
+| 08 More on Mocking           | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/08-More-Mocking)           |
