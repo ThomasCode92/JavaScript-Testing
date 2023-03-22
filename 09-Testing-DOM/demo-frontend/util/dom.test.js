@@ -1,7 +1,7 @@
 import path from 'path';
 import fs from 'fs';
 
-import { it, vi } from 'vitest';
+import { it, vi, expect } from 'vitest';
 import { Window } from 'happy-dom';
 
 import { showError } from './dom';
@@ -16,6 +16,11 @@ document.write(htmlDocContent);
 
 vi.stubGlobal('document', document);
 
-it('first test', () => {
+it('should add an error paragraph to the id="error" element', () => {
   showError('test');
+
+  const errorEl = document.getElementById('errors');
+  const errorParagraph = errorEl.firstElementChild;
+
+  expect(errorParagraph).not.toBeNull();
 });
