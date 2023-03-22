@@ -15,3 +15,4 @@ For more information, see the _[JavaScript Unit Testing - The Practical Guide](h
 | 06 Advanced Testing Concepts | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/06-Advanced-Concepts)      |
 | 07 Mocking & Spies           | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/07-Mocking-and-Spies)      |
 | 08 More on Mocking           | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/08-More-Mocking)           |
+| 09 Testing & The DOM         | [Github Directory](https://github.com/ThomasCode92/JavaScript-Testing/tree/JavaScript-Unit-Testing/09-Testing-DOM)            |
