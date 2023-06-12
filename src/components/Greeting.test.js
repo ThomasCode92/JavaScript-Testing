@@ -1,6 +1,5 @@
 import { fireEvent, render, screen } from '@testing-library/react';
 import Greeting from './Greeting';
-import userEvent from '@testing-library/user-event';
 
 describe('Greeting Component', () => {
   test("should render 'Hello World' as a Text", () => {
